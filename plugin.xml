@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         id="com.keith.cordova.plugin.canvascamera"
-        version="1.0.0dev">
+        version="1.0">
 
     <name>CanvasCamera</name>
 
@@ -11,7 +11,7 @@
     <keywords>camera, canvas camera, take photos</keywords>
     <license>Apache 2.0</license>
 
-    <author>Donald Pae</author>
+    <author>Matias Narigueta Arau (FROM CHILE)</author>
 
     <engines>
         <engine name="cordova" version=">=3.0.0" />
